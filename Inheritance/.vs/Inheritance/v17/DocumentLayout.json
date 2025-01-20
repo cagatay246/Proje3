@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagat\\source\\repos\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217866CC-E3BC-48AE-9A5C-2A406E209386}|Inheritance\\Inheritance.csproj|c:\\users\\cagat\\source\\repos\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217866CC-E3BC-48AE-9A5C-2A406E209386}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217866CC-E3BC-48AE-9A5C-2A406E209386}|Inheritance\\Inheritance.csproj|c:\\users\\cagat\\source\\repos\\inheritance\\inheritance\\ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217866CC-E3BC-48AE-9A5C-2A406E209386}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217866CC-E3BC-48AE-9A5C-2A406E209386}|Inheritance\\Inheritance.csproj|c:\\users\\cagat\\source\\repos\\inheritance\\inheritance\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217866CC-E3BC-48AE-9A5C-2A406E209386}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217866CC-E3BC-48AE-9A5C-2A406E209386}|Inheritance\\Inheritance.csproj|c:\\users\\cagat\\source\\repos\\inheritance\\inheritance\\basekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217866CC-E3BC-48AE-9A5C-2A406E209386}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\basekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogretmen.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Inheritance\\Inheritance\\Ogretmen.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Ogretmen.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Inheritance\\Inheritance\\Ogretmen.cs",
+              "RelativeToolTip": "Inheritance\\Ogretmen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:16:11.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Inheritance\\Inheritance\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Inheritance\\Inheritance\\Ogrenci.cs",
+              "RelativeToolTip": "Inheritance\\Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:15:19.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseKisi.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Inheritance\\Inheritance\\BaseKisi.cs",
+              "RelativeDocumentMoniker": "Inheritance\\BaseKisi.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Inheritance\\Inheritance\\BaseKisi.cs",
+              "RelativeToolTip": "Inheritance\\BaseKisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:14:37.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:14:02.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
